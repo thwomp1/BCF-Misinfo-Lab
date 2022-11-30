@@ -1,0 +1,181 @@
+0
+""
+"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*"
+"In the country where I live - Costa Rica - we have had a mask mandate from the get-go.  Our Minister of Health is a doctor with a specialty in Epidemiology.  There were also other important protocols put in place for being in public and days when people could drive and couldn't drive.  
+
+It's been a battle, but more than 70% of the population is vaccinated and we are down to just over 100 new cases per day ( population around 5.5 million).  We are lucky to have him - Dr. Daniel Sala Peraza - and we are lucky our legislators listened to him."
+"> Overall pooled analysis showed a 53% reduction in covid-19 incidence (0.47, 0.29 to 0.75), although heterogeneity between studies was substantial (I2=84%) (fig 5). Risk of bias across the six studies ranged from moderate to serious or critical
+
+Can someone explain what 'risk of bias being moderate to serious' means?"
+The article doesn't link to any studies. Which studies are they referencing?
+"No, no, no. Read the bloody paper. Even BMJ themselves say that:
+
+• Most of the studies included in the meta analysis are low quality and subject to major biases
+• We need more & better research [like the mask-wearing RCTs which have consistently found a smaller benefit, about 10%
+
+Everyone needs to chill out in stuff like this. Overplaying your hand leaves you verry vulnerable to criticism from the other side in a debate"
+"The quantitative results are from **8 studies** (72 studies met inclusion, 35 distinguished measures from one another, 8 included in the final meta-analysis quantitatively).
+
+Of those 8, 6 are of medium risk of bias, 2 are of serious risk of bias.
+
+The 53% effectiveness figure has a CI of 21% to 75%.
+
+I think this meta-analysis is being given way more attention than it deserves."
+"well if that isn't a misrepresentation of the study then I don't know what is... No wonder none of the articles actually link to it. Here's what is says with context!
+
+""A linked systematic review of public health measures for covid-192 by Talic and colleagues (doi:10.1136/BMJ-2021-068302) found just one randomised controlled trial—of mask wearing—among 35 eligible studies that could provide estimates on the effectiveness of individual interventions.3 The 34 observational studies comprised 14 natural experiments or quasi-experiments and nine cohort, two case-control, and nine cross sectional studies—from Asia (n=11), the United States (n=9), Europe (n=7), and elsewhere (n=8). Combined, these studies suggested relative reductions in incidence of 25% (relative risk 0.75, 95% confidence interval 0.59 to 0.95) for physical distancing, 53% (0.47, 0.29 to 0.75) for mask wearing, and 53% (0.47, 0.19 to 1.12) for handwashing.
+
+Talic and colleagues’ review includes just one randomised controlled trial that evaluated mask wearing, and it was too small for a reliable estimate of effect (18% reduction in incidence for the wearer, 95% confidence interval −23% to 46%).5 The authors mention, but did not include, a large cluster randomised trial of mask wearing from Bangladesh, currently available as a preprint.6 The trial randomised 600 villages (341 830 adults) to surgical masks, cloth masks, or control and found a 9% (95% confidence interval 0% to 18%) relative reduction in symptomatic SARS-CoV-2 infection (measured by seroprevalence) in villages randomised to the mask interventions. Combined, these two randomised trials suggest that mask wearing is responsible for a statistically significant relative risk reduction of about 10% in incidence (95% confidence interval 1% to 18%)—important but substantially less than that from observational studies. A third large cluster trial (40 000 participants) from Guinea-Bissau has completed and should report soon""
+
+link: https://www.bmj.com/content/375/bmj.n2729"
+"If I’m reading their info correct, only 8 studies were included in their analysis. Of those 8 studies, 6 focused on masking.  Am I reading that wrong or did The Guardian sensationalize the story
+
+
+https://www.bmj.com/content/bmj/375/bmj-2021-068302/F1.large.jpg?width=800&height=600"
+[removed]
+"I looked at the studies that supported this claim, and I'm very wary of the result.
+
+For one thing, the meta-analysis shows extreme heterogeneity in the results, with a I2 of 84%. In effect, you have two large studies with small confidence intervals suggesting an effect of about 15% only and 5 smaller studies with larger intervals suggesting an effect of 70%.
+
+The largest of the latter studies is a study from China ([Xu 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7669364/)) which asked participants if they wore masks outdoors and found only 100 people who didn't and over 5 000 who did. In an authoritarian country like China, with a social credit system, the type of person that would not only not wear masks but also dare tell a survey is likely a highly contrarian personality unlikely to abide by measures. So there's a lot of confounders involved.
+
+The second largest such study is [Lio 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082215/), about people returning from high-risk countries in Macao. The sample includes only 24 infected. Again, the question is whether people wore mask outdoors, with less people reporting wearing one always in the infected than non-infected sample. Extremely small sample, and again there's confounders galore.
+
+(And honestly, I'd be curious to know if some of those who don't wear mask outdoors do not BECAUSE they have been infected, think they're immunized and so feel they don't need to protect themselves anymore. In short, if some do not wear masks because they've already been infected rather than have been infected because they don't wear masks. Speculative, but not impossible.)
+
+The only non-Chinese one is [Doung-Ngem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7588529/), from Thailand. This one splits off mask use in three categories: never wears them, sometimes wears them, always wears them. The study finds a small, not significant reduction of infection between those who sometimes wear them and those who never wear them, but a large reduction between those who always do and those who never do. Here, we can see the confounders in behavior and they are MASSIVE.
+
+40% of those who never wear masks share cups and dishes with others, versus 11% of those who always wear them.
+
+26% of those who never wear masks often wash their hands versus 79% of those who always do.
+
+26% of those who always wear masks keep contacts within 1 meter to less than 15 minutes, versus 12% of those who never do.
+
+These are signs that those who always wear masks not only wear them but also act in a much more careful manner in general. They did a multivariable analysis, but when the difference is so important, it's hard to effectively separate confounders.
+
+The less positive studies are the Danish mask study that was a randomized trial eliminating confounders and an epidemiological study of mask mandates.
+
+Overall, it really looks like the large effect is not due directly to the protective effect of masks, but simply how masks (especially when worn despite the lack of mandate, or when not worn despite huge social pressure) might act as a marker of personality."
+[removed]
+[removed]
+"The percent effectiveness is probably even higher when the masks are worn properly. When masks were mandated where I live I couldn’t tell you how many people I saw with the mask over the mouth only, leaving the nose exposed."
+[removed]
+"Not completely accurate. While the paper reviews more than 30 studies, only 6 related to masking. Not arguing mask effectiveness or study results, just stating that the headline is inaccurate and implies greater significance to the results. Most of the topics of the paper (hand washing, lock downs, social distancing, etc) only evaluated 1-5 studies. Over thirty studies were conducted on about a dozen different topics."
+"Mask wearing and covid-19 incidence—Six studies with a total of 2627 people with covid-19 and 389 228 participants were included in the analysis examining the effect of mask wearing on incidence of covid-19 (table 1) Overall pooled analysis showed a 53% reduction in covid-19 incidence (0.47, 0.29 to 0.75), although heterogeneity between studies was substantial (I2=84%) (fig 5). Risk of bias across the six studies ranged from moderate to serious or critical
+
+&#x200B;
+
+Can someone explain what this means to me?"
+[removed]
+This sounds really promising on the surface but without the same exact study done on the same group with no mask wearing the results will always be questioned. I read a while back where science showed that masks in schools curbed the vivid spread but they never tested a school with no mask mandate. It will be years before we actually have a good grasp on how to avoid Covid. Personally I was a hard core mask wearer and I still got it. Now my antibodies are through the roof. At least there’s that.
+"The article doesn't say this. The article says that mask wearing, hand washing, social distancing and other non medical steps help to reduce COVID. This could even include lockdowns or complete isolation for all we know. Unless reading the original BMJ report. Which I don't have time to do now... I need to get ready for the COVID party!"
+"I am not an anti-vaxxer or -masker by any stretch of the imagination. But to throw a wrench in upon reading: it could be that people who wear masks are more likely to engage in a variety of hygienic behaviours that, taken together, makes it less likely that they will get COVID. That is, mask-wearers might be more likely to also social distance, wash their hands more frequently, sanitize, etc., than non mask-wearers. It doesn’t necessarily mean that masks themselves work better than not wearing them; just that the adoption of mask-wearing predicts a lower COVID incidence. Correlation, causation, etc."
+"Interesting. Take a look at Vermont, New Mexico, Oregon in conjunction with their non-mask counterpart states - the case rates are nearly identical."
+"I don't want to start a debate for or against, but one thing I have been curious about is with COVID confirmed to be aerosolized, why would generic cloth masks be effective?  N95 masks I imagine are different, but most places just want generic cloth face coverings. 
+
+Could someone explain this to me?"
+"I only see six mask studied in the paper, none of them actual experimental studies."
+Has anyone found the actual study? I've searched for 15 minutes and can't find a recent study that the news articles describe...
+"I don't understand why the American gulf states are seeing the lowest rates of COVID infection while having the lowest rates of vaccination or mask wearing.
+
+https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
+"Can anyone link me to the actual study they're apparently quoting? The article just says 'a study shows', but they never say which study, or link to it. 
+
+They don't even say how many people were studied, how they were studied or provide the link? 
+
+Anyone?"
+"Sorry this is poor science and has already been debunked elsewhere in the literature and in real-life
+
+https://www.cato.org/working-paper/evidence-community-cloth-face-masking-limit-spread-sars-cov-2-critical-review
+
+If real-life non-FFP3 / paper mask mandates worked then we would see huge differences in US states, we don't
+
+And back in real-life mask-free Sweden they appear to have avoided the 4th and 5th waves smashing other countries
+
+Stop pretending COVID is simple please"
+[removed]
+"Are these statistics on kn95 masks, every mask, or what?"
+I didn't catch the flu this year.
+If this is a good study then logically it would follow  that the places in the US with compulsory mask mandates and the highest rates of mask wearing should have the lowest amounts of Covid transmission and deaths per capita. And the opposite should also be true
+"Just a reminder, a 53% reduction in incidence is not a 53% reduction in total cases.  The virus should burn out when (1-1/R0)% of the population is infected
+
+Assuming no additional measures and an R0 of 6.5, you get 1-(1/6.5) or 85% infected.  With masks it’s 1-(1/(6.5x0.53)) or 71%.  If you want to stop the next wave  from infecting 2/3 of the population, we either need better masks or a new strategy."
+Florida has the lowest new case COVID rate doesn’t it? ( in the us right now)
+"Now do a per capita study of 
+
+California/New York/Michigan
+
+vs 
+
+Florida/Texas/Georgia
+
+
+What's the deal?"
+"Covid will be with us forever now in different variants, are we saying masks are forever? If you got the vaccine then that all that should matter"
+"Yeah better question is how well do the vaccines reduce transmission between unmasked individuals. It obviously reduces severity of symptoms, but I don’t understand why no studies are focusing on transmission."
+Could this be associated with the mask wearers behaviors ?
+"The sun is hot, study finds."
+"I'd be interested in the methodology for this. Before I start - I will just say, I'm not anti-mask (quite the opposite) - but I wonder if it's more that those who wear masks are also likely to take other precautions too like social distancing and not going to crowded places."
+So you’re telling me the unruly airline passengers who mistreated the airline staff were just wrong all this time?!
+"And if you use high quality (N95 or similar), there's an even bigger reduction. Remember when healthcare workers in the West were all getting COVID? Not very common now that the PPE shortage is worked out."
+Mask wearing without proper PPE education/use/enforcement is suboptimal. Why isn’t proper PPE education being distributed?
+Can someone explain me how masks work? The viruses are being filtered through the fabric? What about the air coming up from the masks?
+What study?  There is no reference in the article!
+"I got my shots, I wish everyone got them and we can be done with the masks! Its getting old."
+I haven’t gotten sick for almost 2 years. No colds or the flu. I did catch COVID once though but luckily was asymptomatic and didn’t feel anything. A nice perk to mask culture
+Wouldn’t places with high vaccination also have high mask wearing
+"In that actual study - 
+""Risk of Bias - Moderate to Severe""
+Ye..."
+Gotta wonder why it took 2 years to come up with such straightforward and nesecasry studies.
+ I have no doubt that mask and vaccines help reduce the spread of disease but they don’t provide 100% protection. This past Saturday my brother and I were visiting our mom in the ICU. The pastor of my brothers church was there visiting as well. Before the pastor left he gave my brother a hug. All 3 of us have been vaccinated and were wearing mask per the hospital policy. I received a call from my brother Monday morning saying I should get tested for COVID because his pastor called and informed him that Sunday morning while getting ready for that morning’s service he was putting cologne on he realized he couldn’t smell. So he ask one of the deacons to cover that morning’s service while he went to get tested. His results came back positive. My brother and I both got tested Monday and my results came back negative while my brother tested positive. Not sure if the pastor gave it to my brother or my brother gave it to him but since the pastor showed symptoms first I would bet it started with him. Just wanted to share the story with everyone please take care and protect yourselves as much as you can. Also I’m glad I didn’t get a hug that day.
+"..but by ""covid"" we mean a positive pcr test, and nothing more."
+And more and more i see people that don't wear a mask or they wear it as a chin diaper. It's so annoying.
+I'm glad that majority of the top comments here are trying to spread correct information!
+"why are we posting studies that say directly in them ""these studies may be moderately to extremely biased"" 
+
+like cmon please try harder"
+"Masks should be the new norm indoors even if covid goes away completely. What other species has EVER sequestered itself inside with hundreds or thousands of nearly completely random members of the same species. The air has nowhere to go! Masks would forever cut down on the flu  and common cold just like it’s cutting down covid now. 
+
+That said, I don’t think it should be the new normal for employees. Yet we are doing the exact opposite where I work. Customers don’t have to wear masks but employees do. Totally backwards. 
+
+Also, we cancelled our semi annual used gear sale that was held outdoors and now have it permanently stationed in a corner where people congregate constantly. Without masks. Brilliant."
+That is 53% of those who are exposed . Not 53% of people . For people who are always toting the science of things you really tweak the presentation to be misleading
+[deleted]
+[removed]
+"Went two years without a common cold. Enjoyed that. Mask also helped my allergies a bit… not entirely, but a noticeable bit."
+"If the majority of the functional population around the world:
+
+ \- Were not couch potatoes  
+ \- Exercised regularly  
+ \- Ate well
+
+The impact of COVID would have been reduced beyond what you would get by wearing 10 masks even.
+
+YES, there are exceptions: some healthy people die from COVID too, but it is rare.
+
+The basic things guys. Take care of your body and you won't have to worry about such things ..."
+[removed]
+"But wait, I thought the narrative being pushed was that masks don’t work. You mean to tell me if someone wears a mask, spits water/vapor droplets that get caught in the mask preventing spread of at least some of those droplets is actually doing something to help?! You don’t say…"
+"In the country where I live, there is no obligation or penalty to wear a mask, but almost everyone wears one.
+Although there is no obligation or penalty to vaccinate, 75.7% of the total population, including children, have completed the second dose of the vaccine.
+There has never been a lockdown. There is freedom and self-discipline here at the same time.
+The population is 126 million, but the number of infected people announced today is 163.
+I live in Japan. No one is forcing me to do this, but until a safe and effective medication becomes widely available, I will not be removing my mask."
+"Mask-wearing is the single most effective public health measure at tackling Covid, reducing incidence by 53%, the first global study of its kind shows.
+
+Vaccines are safe and effective and saving lives around the world. But most do not confer 100% protection, most countries have not vaccinated everyone, and it is not yet known if jabs will prevent future transmission of emerging coronavirus variants.
+
+Globally, Covid cases exceeded 250 million this month. The virus is still infecting 50 million people worldwide every 90 days due to the highly transmissible Delta variant, with thousands dying each day.
+
+Now a systematic review and meta analysis of non-pharmaceutical interventions has found for the first time that mask wearing, social distancing and handwashing are all effective measures at curbing cases – with mask wearing the most effective.
+
+“This systematic review and meta analysis suggests that several personal protective and social measures, including handwashing, mask wearing, and physical distancing are associated with reductions in the incidence of Covid-19,” the researchers wrote in The BMJ.
+
+They said the results highlight the need to continue mask wearing, social distancing and handwashing alongside vaccine programmes.
+
+Researchers at Monash University and the University of Edinburgh say multi-faceted measures, such as lockdowns and closures of borders, schools and workplaces need further analysis to assess their potential negative effects on populations.
+
+https://www.bmj.com/content/375/bmj-2021-068302"
